@@ -9,11 +9,15 @@ class Fititin:
         pass
 
     def __str__(self):
-        pass
+        return ""
 
     def __repr__(self):
-        pass
+        return ""
+
+
+def main():
+    pass
 
 
 if __name__ == "__main__":
-    pass
+    main()
